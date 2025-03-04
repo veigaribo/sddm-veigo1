@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Veigo 1
+Description=Veigo 1, based on Suave Dark by Mark Whittaker
+Author=Gabriel Veiga
+Copyright=
+License=GPL3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Email=veigo@veigo.dev
+Theme-Id=veigo1
+Theme-API=2.0
+QtVersion=6
