@@ -1,5 +1,7 @@
 # Veigo 1
 
+![image](https://github.com/user-attachments/assets/b6f08201-9fa3-462b-9186-9467cd2b9689)
+
 SDDM Qt6 theme based on [Suave Dark](https://store.kde.org/p/2185222) by
 [phob1an](https://store.kde.org/u/phob1an), featuring code by Abdurrahman
 AVCI (see `ComboBox.qml`).
